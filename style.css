@@ -1,0 +1,19 @@
+.margin-css{
+    /*  margin-left: 100px; */
+    border-radius: 2%;
+    margin-bottom: 20px;
+    border: 2px solid  black;
+    padding: 50px 150px;
+    background-color: red;
+}
+.btns-css{
+    background-color: red;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.margin-css1{
+    margin-left: 360px;
+    margin-top: 140px;
+}
